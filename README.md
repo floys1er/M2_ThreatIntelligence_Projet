@@ -5,9 +5,9 @@ Ce projet a été réalisé dans le cadre du cours de Threat Intelligence à l'U
 On s'est intéressé aux données sur les groupes APT récoltées et fournies par ThaiCERT sous le format MISP galaxy.
 Le but de ce projet a été d'exploiter ces données pour en ressortir des statistiques, mais aussi pouvoir croiser ces données avec un autre fichier JSON, sur des données de la Banque Mondiale. Cela permettrait de pouvoir faire des analyses plus profondes
 
-Les résultats sont présentés dans le fichier [Report.pdf](../Report.pdf) 
+Les résultats sont présentés dans le fichier [Report.pdf](https://github.com/floys1er/M2_ThreatIntelligence_Projet/blob/main/Report.pdf) 
 
-Le script est disponible [ici](../script.sh)
+Le script est disponible [ici](https://github.com/floys1er/M2_ThreatIntelligence_Projet/blob/main/script.sh)
 
 ========================================================================================================================================================================
 
@@ -17,9 +17,9 @@ We were interested about the data on APT groups, collected and provided by ThaiC
 
 The goal of this project was to exploit these data to get statistics, but also to be able to cross these data with another JSON file, on data from the World Bank. This would allow for deeper analysis.
 
-The results are presented in the file [Report.pdf](../Report.pdf)
+The results are presented in the file [Report.pdf](https://github.com/floys1er/M2_ThreatIntelligence_Projet/blob/main/Report.pdf)
 
-Script is available [here](../script.sh)
+Script is available [here](https://github.com/floys1er/M2_ThreatIntelligence_Projet/blob/main/script.sh)
 
 
 
